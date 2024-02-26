@@ -13,8 +13,6 @@ Welcome to the Spotify Data Analysis Project! This project delves into the analy
 - [Usage](#usage)
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Machine Learning Models](#machine-learning-models)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
