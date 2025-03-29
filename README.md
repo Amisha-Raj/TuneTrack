@@ -1,4 +1,4 @@
-# Spotify Data Analysis Project
+# TuneTrack - Tracking trends in music features
 
 ## Overview
 
